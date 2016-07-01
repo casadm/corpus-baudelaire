@@ -31,6 +31,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
         </address>
         <date>2014</date>
         <idno>FDM-000-000-000-016</idno>
+                  <!--filename verified-->
       </publicationStmt>
       <sourceDesc>
         <!--
@@ -70,6 +71,7 @@ Online Distributed Proofreading Team.</p>
           <l n="9">Poëte, notre sang nous fuit par chaque pore;</l>
           <l n="10">Est-ce que par hasard la robe du Centaure,</l>
           <l n="11">Qui changeait toute veine en funèbre ruisseau,</l>
+
         </lg>
         <lg type="stanza" subtype="tercet" n="4">
           <l n="12">Était teinte trois fois dans les baves subtiles</l>
