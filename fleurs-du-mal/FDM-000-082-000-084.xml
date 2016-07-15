@@ -94,6 +94,7 @@ Online Distributed Proofreading Team.</p>
           <l n="1"><app>
               <lem wit="#U1861"/>
               <rdg wit="#FDM1868">U+00AB</rdg>
+              <--! U+00AB and U+00BB = correct unicode for L and R facing pointy quotation marks--> 
             </app>De ce ciel bizarre et livide,</l>
           <l n="2">Tourmenté comme ton destin,</l>
           <l n="3">Quels pensers dans ton âme vide</l>
