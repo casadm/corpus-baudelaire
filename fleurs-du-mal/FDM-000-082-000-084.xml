@@ -15,6 +15,10 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
           <resp>Critical Apparatus</resp>
           <name xml:id="TFH">Todd Hughes</name>
         </respStmt>
+        <respStmt>
+          <resp>Review</resp>
+          <name xml:id="MC">Mickey Casad</name>
+        </respStmt>
         <sponsor>Jean and Alexander Heard Library</sponsor>
       </titleStmt>
       <publicationStmt>
@@ -89,7 +93,7 @@ Online Distributed Proofreading Team.</p>
         <lg type="stanza" subtype="quatrain" n="1">
           <l n="1"><app>
               <lem wit="#U1861"/>
-              <rdg wit="#FDM1868">&lt; &lt;</rdg>
+              <rdg wit="#FDM1868">U+00AB</rdg>
             </app>De ce ciel bizarre et livide,</l>
           <l n="2">Tourmenté comme ton destin,</l>
           <l n="3">Quels pensers dans ton âme vide</l>
@@ -101,7 +105,7 @@ Online Distributed Proofreading Team.</p>
               <rdg wit="#FDM1868">Réponds</rdg>
             </app>, libertin.<app>
               <lem wit="#U1861"/>
-              <rdg wit="#FDM1868">&gt; &gt;</rdg>
+              <rdg wit="#FDM1868">U+00BB</rdg>
             </app></l>
         </lg>
         <lg type="stanza" subtype="quatrain" n="2">
